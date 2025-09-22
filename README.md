@@ -1,4 +1,4 @@
-# CodeAlpha_HRAnalytics
+# HR Analytics Dasboard
  Overview
 This project presents an interactive HR Analytics Dashboard built using Power BI, focused on employee attrition analysis. The goal is to uncover key insights from HR data to help organizations understand workforce dynamics and reduce employee turnover.
 
