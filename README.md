@@ -70,15 +70,15 @@ Microsoft Excel / CSV – assumed source of raw data
 
 # HR-Analytics-Dashboard/
 │
-├── data 
+├── Data 
 https://github.com/priyanshusharma0045/HR-Analytic-dasboard/blob/main/HR_Analytics.csv
 │   
 │
-├── dashboard
+├── Dashboard
 https://github.com/priyanshusharma0045/HR-Analytic-dasboard/blob/main/HR%20Analytics%20Dashboard.pbix
 │   
 │
-├── images
+├── Images
 <img width="1455" height="806" alt="Screenshot 2025-07-15 221042" src="https://github.com/user-attachments/assets/d7f9236b-7042-4056-ae5f-50c0af583faf" />
 
 │   
